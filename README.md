@@ -1,4 +1,4 @@
-This is the Bookstore Final Project code for the course COE528. It was completed by my group members and I.
+This is the Bookstore Final Project code for the course COE528 W2022. It was completed by my group members and I.
 
 Group Members:
 1. Skadri342
